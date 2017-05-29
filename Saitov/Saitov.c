@@ -86,7 +86,6 @@ int commands (char** a, int first, int last){
             }
         else
             printf("\nerror");
-       // printf("\n%d[%d]=%d", size, loc, lenta[loc]);
     }
 
 return 0;
