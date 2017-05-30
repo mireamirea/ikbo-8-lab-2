@@ -38,7 +38,7 @@ int main () {
 	
 	/* Reading of file */
 	
-	fp = fopen("Alg.txt", "r");
+	fp = fopen("avtamonov_algoritm.txt", "r");
 	
 	while (!feof(fp)) {
 	
