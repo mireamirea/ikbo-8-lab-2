@@ -1,0 +1,4 @@
+	movl
+movl
+ movl
+			print
