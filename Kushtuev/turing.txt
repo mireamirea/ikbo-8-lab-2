@@ -1,4 +1,0 @@
-movl
-movl
-movl
-print
